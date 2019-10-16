@@ -1,0 +1,14 @@
+# Build
+/target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.springBeans
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
